@@ -36,5 +36,3 @@ class CashRegister
   
 end 
 
-tester = CashRegister.new 
-tester.add_item(4, "carrots", 4)
